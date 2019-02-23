@@ -1,12 +1,12 @@
-Lois Kilberg
-############
+Create a Spiral Notebook
+########################
 
 
 .. image:: images/photo_notebooks.jpg
          :name: photo of spiral notebooks
          :width: 30%
 
-Technical Writer
+How to Create Your Own Spiral Notebooks
 
 |Contents|
 
