@@ -13,11 +13,7 @@ How to Create Your Own Spiral Notebook
 .. toctree::
    :maxdepth: 2
 
-   contactInfo
-   profile
-   experience
-   skills
-   education
+   create_notebook_covers
 
 
 .. add new files to list above to include them in toc
