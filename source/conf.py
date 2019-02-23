@@ -28,11 +28,11 @@ pygments_style = 'sphinx'
 #html_theme = 'bizstyle'
 #html_theme = 'classic'
 #html_theme = 'haiku'
-#html_theme = 'nature'
+html_theme = 'nature'
 #html_theme = 'pyramid'
 #html_theme = 'scrolls'
 #html_theme = 'sphinxdoc'
-html_theme = 'traditional'
+#html_theme = 'traditional'
 
 rst_epilog = """
 .. include:: substitutions.txt
