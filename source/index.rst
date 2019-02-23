@@ -6,7 +6,7 @@ Create a Spiral Notebook
          :name: photo of spiral notebooks
          :width: 30%
 
-How to Create Your Own Spiral Notebooks
+How to Create Your Own Spiral Notebook
 
 |Contents|
 
