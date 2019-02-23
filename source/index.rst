@@ -14,6 +14,6 @@ How to Create Your Own Spiral Notebook
    :maxdepth: 2
 
    create_notebook_covers
-
+   create_contents.rst
 
 .. add new files to list above to include them in toc
