@@ -29,8 +29,8 @@ You could buy other commercially available small spiral notebooks at many other 
 * We make them in sizes and styles that may not be easy to find at other places.
 * You support local artists by buying them from |lla|.
 
-Sizes and Styles
-================
+Choosing Sizes and Styles
+=========================
 
 |lla| offers the following sizes and styles of spiral notebooks:
 
