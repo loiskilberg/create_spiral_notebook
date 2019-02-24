@@ -58,8 +58,8 @@ Sizes and Styles
      - |szTrimShort6|
      - |szTrimLong6|
 	
-|Thin| notebooks have approximately **|thinPgs| sheets**.
-*|Chunky|* notebooks have approximately **|chunkyPgs| sheets**.
+|Thin| notebooks have approximately |thinPgs| sheets.
+|Chunky| notebooks have approximately |chunkyPgs| sheets.
 
 The **orientation** of the image on front can be *vertical* or *horizontal*.
 
