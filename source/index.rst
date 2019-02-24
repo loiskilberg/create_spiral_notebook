@@ -61,7 +61,7 @@ Sizes and Styles
 *Slim* notebooks have approximately **60 sheets**.
 *Thick* notebooks have approximately **180 sheets**.
 
-The **orientation** of the image on front can be placed *vertically* or *horizontally*.
+The **orientation** of the image on front can be *vertical* or *horizontal*.
 
 The **wire spirals** can be placed either on the *top* or on the *left* side.
 
