@@ -27,6 +27,3 @@
 .. |szTrimLong4| replace:: 5.5”
 .. |szTrimLong5| replace:: 8.5”
 .. |szTrimLong6| replace:: 11”
-.. |_| replace:: _
-.. |_| replace:: _
-.. |_| replace:: _
