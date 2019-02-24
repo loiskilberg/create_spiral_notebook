@@ -15,8 +15,8 @@ Why Make Your Own Small Spiral Notebooks?
 <text TBD>
 
 Steps to Create Your Own Small Spiral Notebooks
-================================================
-Click on steps below:
+===============================================
+Click on the steps below to create your own spiral notebooks. You can follow all the steps immediately after each other, or you can make some of the parts and wait until you need to finish up the notebooks later to finish the steps:
 
 |Contents|
 
