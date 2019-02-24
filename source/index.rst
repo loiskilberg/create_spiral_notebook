@@ -14,7 +14,7 @@ Introducing Small Spiral Notebooks
 
 <notebook versus notebooks for this document>
 
-<where you can buy them>
+You can buy these notebooks already made at |etsyNotebooks| or by emailing |emailInfoLLC|.
 
 Why Make Your Own Small Spiral Notebooks?
 =========================================
