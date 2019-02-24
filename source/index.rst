@@ -78,7 +78,7 @@ Additional Style Choices:
 * The **wire spirals** can be placed either on the *top* or on the *left* side.
 
 Steps to Create Your Own Small Spiral Notebooks
-===============================================
+###############################################
 We typically use the plural term "notebooks" in this document. That is because you can often fit more than one smaller notebook on a regular sized sheet of paper, making it efficient to make more than one notebook at a time. However, you can also follow the steps to make just a single notebook. 
 
 You can follow all the steps in sequence without stopping, or you can do some steps and then wait until later to complete the notebooks.
