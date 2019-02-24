@@ -10,6 +10,8 @@ Introducing Small Spiral Notebooks
 ==================================
 <text TBD, mention these steps are for LLC procedures>
 
+<notebook versus notebooks for this document>
+
 Why Make Your Own Small Spiral Notebooks?
 =========================================
 <text TBD>
