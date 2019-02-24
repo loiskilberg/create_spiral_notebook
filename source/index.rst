@@ -4,7 +4,8 @@ Create Your Own Small Spiral Notebooks
 
 .. image:: images/photo_notebooks.jpg
          :name: photo of spiral notebooks
-         :width: 100%
+         :width: 50%
+         :align: "center"
 
 Introducing Small Spiral Notebooks
 ==================================
