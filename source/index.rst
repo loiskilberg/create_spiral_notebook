@@ -59,10 +59,12 @@ Sizes and Styles
      - |szTrimLong6|
 
 Notebooks come in two thicknesses:
-|Thin| notebooks have approximately |thinPgs| sheets.
-|Chunky| notebooks have approximately |chunkyPgs| sheets.
+
+* |Thin| notebooks have approximately |thinPgs| sheets.
+* |Chunky| notebooks have approximately |chunkyPgs| sheets.
 
 Additional Style Choices:
+
 * The **orientation** of the image on front can be *vertical* or *horizontal*.
 * The **wire spirals** can be placed either on the *top* or on the *left* side.
 
