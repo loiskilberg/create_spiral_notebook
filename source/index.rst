@@ -8,17 +8,26 @@ Create Your Own Small Spiral Notebooks
 
 Introducing Small Spiral Notebooks
 ==================================
-<text TBD, mention these steps are for |LLC| procedures>
 
-<why calling them small>
+At |llc|, we offer a large variety of small notebooks. We place our fine art reproductions or map prints on the front covers. These notebooks are very portable to take along with you, which makes it fun and easy to write notes almost anywhere!
 
-<notebook versus notebooks for this document>
+The wire spiral allows you to have a flat surface to write on without taking up extra space. The heavy matboard backing strongly supports your writing or drawing. The inner pages are made from paper which is easy to draw on and is acid-free.
+
+We are calling them small notebooks in this document because most of the sizes are smaller than a standard 8.5" x 11" paper, although we do offer the standard size as well.
+
+There are a variety of ways to make notebooks. This document will describe how we are currently making them at |lla|. Perhaps you are interested in how we make our notebooks. Or, perhaps you are helping |llc| to create notebooks.
 
 You can buy these notebooks already made at |etsyNotebooks| or by emailing |emailInfoLLC|.
 
 Why Make Your Own Small Spiral Notebooks?
 =========================================
-<text TBD><why I am providing this document>
+
+You could buy small spiral notebooks already made at almost any store. Reasons for buying them from |lla| include:
+
+* You can get unique artistic images on the covers that are not available anywhere else.
+* You can commission special images to be placed on the covers.
+* We make them in sizes and styles that may not be easy to find in other places.
+* You support local artists by buying them from |lla|.
 
 Sizes and Styles
 ================
@@ -70,7 +79,11 @@ Additional Style Choices:
 
 Steps to Create Your Own Small Spiral Notebooks
 ===============================================
-Click on the steps below to create your own spiral notebooks. You can follow all the steps in sequence without stopping, or you can do some steps and then wait until later to complete the notebooks:
+We typically use the plural term "notebooks" in this document. That is because you can often fit more than one smaller notebook on a regular sized sheet of paper, making it efficient to make more than one notebook at a time. However, you can also follow the steps to make just a single notebook. 
+
+You can follow all the steps in sequence without stopping, or you can do some steps and then wait until later to complete the notebooks.
+
+Click on the steps below to learn how to create your own spiral notebooks:
 
 |Contents|
 
