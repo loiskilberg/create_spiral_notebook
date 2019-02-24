@@ -1,12 +1,22 @@
-Create a Spiral Notebook
-########################
+Create Your Own Small Spiral Notebooks
+######################################
 
 
 .. image:: images/photo_notebooks.jpg
          :name: photo of spiral notebooks
          :width: 30%
 
-How to Create Your Own Spiral Notebook
+Introducing Small Spiral Notebooks
+==================================
+<text TBD>
+
+Why Make Your Own Small Spiral Notebooks?
+=========================================
+<text TBD>
+
+Steps to Create Your Own Small Spiral Notebooks
+================================================
+Click on steps below:
 
 |Contents|
 
