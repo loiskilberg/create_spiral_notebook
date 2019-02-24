@@ -7,5 +7,5 @@ Preparing the Notebook's Front Cover
 #. laminate 5mil
 #. punching
 
-.. warning:: |warningSharpLaminatedFrontCover|
+.. caution:: |warningSharpLaminatedFrontCover|
 
