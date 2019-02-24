@@ -23,7 +23,13 @@ Click on steps below:
 .. toctree::
    :maxdepth: 2
 
-   create_notebook_covers
-   create_contents.rst
+   01_prepare_front_cover.rst
+   02_prepare_back_cover.rst
+   03_prepare_inner_content.rst
+   04_prepare_wire_spiral.rst
+   05_combine_the_parts.rst
+   06_finishing_the_notebook.rst
+   07_packaging_the_notebook.rst
+   08_next_steps
 
 .. add new files to list above to include them in toc
