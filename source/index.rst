@@ -28,7 +28,7 @@ Click on the steps below to create your own spiral notebooks. You can follow all
    03_prepare_inner_content.rst
    04_prepare_wire_spiral.rst
    05_combine_the_parts.rst
-   06_finishing_the_notebook.rst
+   06_assemblingAndFinishing_the_notebook.rst
    07_packaging_the_notebook.rst
    08_next_steps.rst
 
