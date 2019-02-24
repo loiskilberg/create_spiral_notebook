@@ -1,2 +1,2 @@
-# create_spiral_notebook
-How to create a spiral notebook
+# create_spiral_notebooks
+How to create your own small spiral notebooks
