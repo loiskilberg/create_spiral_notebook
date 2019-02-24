@@ -14,6 +14,8 @@ Introducing Small Spiral Notebooks
 
 <notebook versus notebooks for this document>
 
+<where you can buy them>
+
 Why Make Your Own Small Spiral Notebooks?
 =========================================
 <text TBD>
