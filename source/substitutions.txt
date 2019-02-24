@@ -4,12 +4,12 @@
 .. |lla| replace:: Lois Legacy Art
 .. |llc| replace:: Lois Legacy Art LLC
 
-.. |thin| replace:: slim
-.. |chunky| replace:: thick
+.. |thin| replace:: *slim*
+.. |chunky| replace:: *thick*
 .. |Thin| replace:: *Slim*
-.. |Chunky| replace:: Thick
-.. |thinPgs| replace:: 60
-.. |chunkyPgs| replace:: 180
+.. |Chunky| replace:: *Thick*
+.. |thinPgs| replace:: **60**
+.. |chunkyPgs| replace:: **180**
 .. |szNm1| replace:: Micro
 .. |szNm2| replace:: Tiny
 .. |szNm3| replace:: Small
