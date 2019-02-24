@@ -9,8 +9,10 @@ These steps vary depending on what you will be doing with the notebooks now.
 Otherwise:
 
 * Place in appropriately sized acid-free plastic sleeves. 
+
   - How to reorder sleeves
 * Attach label to back of sleeves.
+
   - use label file if exists
   - Description
   - Logo
