@@ -9,24 +9,24 @@ Create Your Own Small Spiral Notebooks
 Introducing Small Spiral Notebooks
 ==================================
 
-At |llc|, we offer a large variety of small notebooks. We place our fine art reproductions or map prints on the front covers. These notebooks are very portable to take along with you, which makes it fun and easy to write notes almost anywhere!
+At |llc|, we offer a large variety of small notebooks. We place our fine art reproductions and map prints on the front covers. These notebooks are very portable to take along with you, which makes it fun and easy to write notes almost anywhere!
 
 The wire spiral allows you to have a flat surface to write on without taking up extra space. The heavy matboard backing strongly supports your writing or drawing. The inner pages are made from paper which is easy to draw on and is acid-free.
 
 We are calling them small notebooks in this document because most of the sizes are smaller than a standard 8.5" x 11" paper, although we do offer the standard size as well.
 
-There are a variety of ways to make notebooks. This document will describe how we are currently making them at |lla|. Perhaps you are interested in how we make our notebooks. Or, perhaps you are helping |llc| to create notebooks.
+There are a variety of ways to make notebooks. This document will describe how we are currently making them at |lla|. By reading this document, perhaps you are interested in how we make our notebooks. Or, perhaps you are actually assisting |llc| to create the notebooks and want to learn the process.
 
-You can buy these notebooks already made at |etsyNotebooks| or by emailing |emailInfoLLC|.
+You can buy these notebooks already made at our |etsyNotebooks| or by emailing a request to |emailInfoLLC|.
 
 Why Make Your Own Small Spiral Notebooks?
 =========================================
 
-You could buy small spiral notebooks already made at almost any store. Reasons for buying them from |lla| include:
+You could buy other commercially available small spiral notebooks at many other stores. Reasons for buying them from |lla| include:
 
 * You can get unique artistic images on the covers that are not available anywhere else.
 * You can commission special images to be placed on the covers.
-* We make them in sizes and styles that may not be easy to find in other places.
+* We make them in sizes and styles that may not be easy to find at other places.
 * You support local artists by buying them from |lla|.
 
 Sizes and Styles
