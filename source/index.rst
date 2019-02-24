@@ -57,13 +57,14 @@ Sizes and Styles
      - |szNm6|
      - |szTrimShort6|
      - |szTrimLong6|
-	
+
+Notebooks come in two thicknesses:
 |Thin| notebooks have approximately |thinPgs| sheets.
 |Chunky| notebooks have approximately |chunkyPgs| sheets.
 
-The **orientation** of the image on front can be *vertical* or *horizontal*.
-
-The **wire spirals** can be placed either on the *top* or on the *left* side.
+Additional Style Choices:
+* The **orientation** of the image on front can be *vertical* or *horizontal*.
+* The **wire spirals** can be placed either on the *top* or on the *left* side.
 
 Steps to Create Your Own Small Spiral Notebooks
 ===============================================
