@@ -18,7 +18,7 @@ Introducing Small Spiral Notebooks
 
 Why Make Your Own Small Spiral Notebooks?
 =========================================
-<text TBD>
+<text TBD><why I am providing this document>
 
 Sizes and Styles
 ================
