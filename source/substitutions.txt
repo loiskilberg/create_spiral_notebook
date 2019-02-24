@@ -27,6 +27,7 @@
 .. |szTrimLong4| replace:: 5-1/2”
 .. |szTrimLong5| replace:: 8-1/2”
 .. |szTrimLong6| replace:: 11”
+.. |warningSharpLaminatedFrontCover| replace:: The corners of the laminated front cover will be sharp and could prick your fingers. Later you will soften the corners by trimming them slightly. Until then, be careful when handling the laminated front cover.
 
 .. |emailInfoLLC| raw:: html
 
