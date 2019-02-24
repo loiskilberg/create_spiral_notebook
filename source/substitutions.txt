@@ -3,7 +3,6 @@
 .. |Contents| replace:: Steps to Create Notebooks
 .. |lla| replace:: Lois Legacy Art
 .. |llc| replace:: Lois Legacy Art LLC
-
 .. |thin| replace:: *slim*
 .. |chunky| replace:: *thick*
 .. |Thin| replace:: *Slim*
@@ -28,3 +27,11 @@
 .. |szTrimLong4| replace:: 5.5”
 .. |szTrimLong5| replace:: 8.5”
 .. |szTrimLong6| replace:: 11”
+
+.. |emailInfoLLC| raw:: html
+
+  <a href="mailto:info@loislegacyart.com" target="_blank">info@loislegacyart.com</a>
+
+.. |etsyNotebooks| raw:: html
+
+  <a href="https://www.etsy.com/shop/LoisLegacyArt?section_id=24133422" target="_blank">Etsy Shop: Notebooks</a>
