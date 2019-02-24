@@ -34,32 +34,32 @@ Sizes and Styles
      - Short Side
      - Long Side
    * - #1
-     - Micro
-     - 1-3/8"
-     - 2-1/8"
+     - |szNm1|
+     - |szTrimShort1|
+     - |szTrimLong1|
    * - #2
-     - Tiny
-     - 2-1/8"
-     - 2.75"
+     - |szNm2|
+     - |szTrimShort2|
+     - |szTrimLong2|
    * - #3
-     - Small
-     - 2.75"
-     - 4.25"
+     - |szNm3|
+     - |szTrimShort3|
+     - |szTrimLong3|
    * - #4
-     - Medium
-     - 4.25"
-     - 5.5"
+     - |szNm4|
+     - |szTrimShort4|
+     - |szTrimLong4|
    * - #5
-     - Half-Page
-     - 5.5"
-     - 8.5"
+     - |szNm5|
+     - |szTrimShort5|
+     - |szTrimLong5|
    * - #6
-     - Full-Page
-     - 8.5"
-     - 11"
+     - |szNm6|
+     - |szTrimShort6|
+     - |szTrimLong6|
 	
-*Slim* notebooks have approximately **60 sheets**.
-*Thick* notebooks have approximately **180 sheets**.
+*|Thin|* notebooks have approximately **|thinPgs| sheets**.
+*|Chunky|* notebooks have approximately **|chunkyPgs| sheets**.
 
 The **orientation** of the image on front can be *vertical* or *horizontal*.
 
