@@ -4,7 +4,6 @@
 .. |lla| replace:: Lois Legacy Art
 .. |llc| replace:: Lois Legacy Art LLC
 
-#sizes and styles
 .. |thin| replace:: Slim
 .. |chunky| replace:: Thick
 .. |thinPgs| replace:: 60
