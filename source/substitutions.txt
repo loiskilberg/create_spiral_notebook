@@ -3,3 +3,30 @@
 .. |Contents| replace:: Steps to Create Notebooks
 .. |lla| replace:: Lois Legacy Art
 .. |llc| replace:: Lois Legacy Art LLC
+
+#sizes and styles
+.. |thin| replace:: Slim
+.. |chunky| replace:: Thick
+.. |thinPgs| replace:: 60
+.. |chunkyPgs| replace:: 180
+.. |szNm1| replace:: Micro
+.. |szNm2| replace:: Tiny
+.. |szNm3| replace:: Small
+.. |szNm4| replace:: Medium
+.. |szNm5| replace:: Half-Page
+.. |szNm6| replace:: Full-Page
+.. |szTrimShort1| replace:: 1-3/8”
+.. |szTrimShort2| replace:: 2-1/8”
+.. |szTrimShort3| replace:: 2.75”
+.. |szTrimShort4| replace:: 4.25”
+.. |szTrimShort5| replace:: 5.5”
+.. |szTrimShort6| replace:: 8.5”
+.. |szTrimLong1| replace:: 2-1/8”
+.. |szTrimLong2| replace:: 2.75”
+.. |szTrimLong3| replace:: 4.25”
+.. |szTrimLong4| replace:: 5.5”
+.. |szTrimLong5| replace:: 8.5”
+.. |szTrimLong6| replace:: 11”
+.. |_| replace:: _
+.. |_| replace:: _
+.. |_| replace:: _
