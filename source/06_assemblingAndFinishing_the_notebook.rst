@@ -1,6 +1,8 @@
 Assembling and Finishing the Notebook
 #####################################
 
+.. warning:: |warningSharpLaminatedFrontCover|
+
 * put covers on inner contents
 * move back cover to front
 * insert wire spiral teeth into holes
