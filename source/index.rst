@@ -30,6 +30,6 @@ Click on steps below:
    05_combine_the_parts.rst
    06_finishing_the_notebook.rst
    07_packaging_the_notebook.rst
-   08_next_steps
+   08_next_steps.rst
 
 .. add new files to list above to include them in toc
