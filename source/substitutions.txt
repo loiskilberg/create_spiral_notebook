@@ -6,7 +6,7 @@
 
 .. |thin| replace:: slim
 .. |chunky| replace:: thick
-.. |Thin| replace:: Slim
+.. |Thin| replace:: *Slim*
 .. |Chunky| replace:: Thick
 .. |thinPgs| replace:: 60
 .. |chunkyPgs| replace:: 180
