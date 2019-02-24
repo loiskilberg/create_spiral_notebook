@@ -1,3 +1,3 @@
 
 
-.. |Contents| replace:: Table of Contents
+.. |Contents| replace:: Steps to Create Notebooks
