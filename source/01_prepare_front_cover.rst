@@ -29,7 +29,7 @@ Additionally, you may use just an excerpt of an image to go on the cover. In the
   
 * If you want the image to extend to the very edge of the cover:
 
-  - You will need a *bleed* (extra image beyond what you need for the final result). It is very difficult to cut exactly along a boundary line. Having a *bleed* helps so that trimming the cover later won't accidentally result in tiny slivers of white showing or making the trimmed area smaller than it should be.
+  - You will need a *bleed* (extra image beyond what you need for the final result). This is because it is very difficult to cut exactly along a boundary line. Having a *bleed* helps so that trimming the cover later won't accidentally result in tiny slivers of white showing or making the trimmed area smaller than it should be.
   - To add a *bleed*, make the image about 1/8" larger than the final notebook size on each side (top, bottom, left, right).
   - Make sure that the important parts of your image will fit within the final trimmed notebook size and won't be trimmed off later.  
   
