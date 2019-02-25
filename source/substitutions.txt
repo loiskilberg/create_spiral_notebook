@@ -29,6 +29,8 @@
 .. |szTrimLong6| replace:: 11”
 .. |warningSharpLaminatedFrontCover| replace:: The corners of the laminated front cover will be sharp and could prick your fingers. Later you will soften the corners by trimming them slightly. Until then, be careful when handling the laminated front cover.
 
+.. |warningSharpRegularPaperCutter| replace:: Keep the regular paper cutter away from small children. Be careful when handling so that you don't accidentally cut yourself, since the blade is sharp.
+
 .. |emailInfoLLC| raw:: html
 
   <a href="mailto:info@loislegacyart.com" target="_blank">info@loislegacyart.com</a>
