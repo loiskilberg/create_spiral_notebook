@@ -29,7 +29,8 @@ Additionally, you may use just an excerpt of an image to go on the cover. In the
   
 * If you want the image to extend to the very edge of the cover:
 
-  - You will need a *bleed* so that trimming the cover later won't result in tiny slivers of white showing, so make the image about 1/8" larger than the final notebook size on each side (top, bottom, left, right).
+  - You will need a *bleed* so that trimming the cover later won't result in tiny slivers of white showing.
+  - Make the image about 1/8" larger than the final notebook size on each side (top, bottom, left, right).
   - Make sure that the important parts of your image fit within the final notebook size and won't be trimmed off later.  
   
 Creating the Printing Layout
