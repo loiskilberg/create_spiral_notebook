@@ -41,6 +41,9 @@ html_theme_options = {
   "sidebarlinkcolor": "#b1aefb",
   "relbarbgcolor": "#353460",
   "headtextcolor": "#353460 ",
+  "linkcolor": "#4d4b89",
+  "visitedlinkcolor": "#4d4b89",
+
 }
 
 html_logo = "images/logo_myPSDfileWithLLC_width200px.png"
