@@ -34,6 +34,12 @@ html_theme = 'classic'
 #html_theme = 'sphinxdoc'
 #html_theme = 'traditional'
 
+html_theme_options = {
+    "sidebarbgcolor": "#343261",
+}
+
+html_logo = "images/logo_myPSDfileWithLLC_width200px.png"
+
 rst_epilog = """
 .. include:: substitutions.txt
 """
