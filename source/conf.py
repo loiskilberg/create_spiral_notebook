@@ -34,9 +34,12 @@ html_theme = 'classic'
 #html_theme = 'sphinxdoc'
 #html_theme = 'traditional'
 
-#html_theme_options = {
+html_theme_options = {
 #    "sidebarbgcolor": "#343261",
-#}
+  "relbarbgcolor": "red",
+  "relbartextcolor": "purple",
+  "relbarlinkcolor": "orange",
+}
 
 html_logo = "images/logo_myPSDfileWithLLC_width200px.png"
 
