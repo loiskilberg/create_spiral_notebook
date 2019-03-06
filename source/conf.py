@@ -35,10 +35,12 @@ html_theme = 'classic'
 #html_theme = 'traditional'
 
 html_theme_options = {
-#    "sidebarbgcolor": "#343261",
-  "relbarbgcolor": "red",
-  "relbartextcolor": "purple",
-  "relbarlinkcolor": "orange",
+
+  "footerbgcolor": "#242342",
+  "sidebarbgcolor": "#4d4b89",
+  "sidebarlinkcolor": "#b1aefb",
+  "relbarbgcolor": "#353460",
+  "headtextcolor": "#353460 ",
 }
 
 html_logo = "images/logo_myPSDfileWithLLC_width200px.png"
