@@ -36,7 +36,7 @@ Additionally, you may use just an excerpt of an image to go on the cover. In the
 Creating the Printing Layout
 ============================
 
-#. Start PhotoShop.
+#. Start Photoshop.
 #. If a front cover **outside** template exists for the chosen size and style of notebook, open it.
 #. If you are not using a template:
 
