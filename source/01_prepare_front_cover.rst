@@ -36,6 +36,11 @@ Additionally, you may use just an excerpt of an image to go on the cover. In the
 Creating the Printing Layout
 ============================
 
+Please note: This is a draft document. For a more detailed description for this section, please see: 
+
+.. raw:: HTML
+  <a href="https://finalproject2.readthedocs.io/en/latest/index.html#"></a>
+
 #. Start Photoshop.
 #. If a front cover **outside** template exists for the chosen size and style of notebook, open it.
 #. If you are not using a template:
