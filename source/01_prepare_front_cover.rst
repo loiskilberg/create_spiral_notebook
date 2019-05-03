@@ -1,6 +1,8 @@
 Preparing the Notebook's Front Cover
 ####################################
 
+Please note this is a draft document in the process of being written!
+
 Gathering the Image for the Front Outside Cover
 ===============================================
 
