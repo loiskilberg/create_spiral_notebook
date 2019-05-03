@@ -1,6 +1,8 @@
 Assembling and Finishing the Notebook
 #####################################
 
+Please note this is a draft document in the process of being written!
+
 .. warning:: |warningSharpLaminatedFrontCover|
 
 * put covers on inner contents
