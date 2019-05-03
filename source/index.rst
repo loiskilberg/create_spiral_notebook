@@ -10,7 +10,7 @@ Create Your Own Small Spiral Notebooks
 Introducing Small Spiral Notebooks
 ==================================
 
-At |llc|, we offer a large variety of small notebooks. We place our fine art reproductions and map prints on the front covers. These notebooks are very portable to take along with you, which makes it fun and easy to write notes almost anywhere!
+At |llc|, we offer a large variety of small notebooks. We place our fine art reproductions, illustrations, and map prints on the front covers. These notebooks are very portable to take along with you, which makes it fun and easy to write notes almost anywhere!
 
 The wire spiral allows you to have a flat surface to write on without taking up extra space. The heavy matboard backing strongly supports your writing or drawing. The inner pages are made from paper which is easy to draw on and is acid-free.
 
@@ -19,6 +19,8 @@ We are calling them small notebooks in this document because most of the sizes a
 There are a variety of ways to make notebooks. This document will describe how we are currently making them at |lla|. By reading this document, perhaps you are interested in how we make our notebooks. Or, perhaps you are actually assisting |llc| to create the notebooks and want to learn the process.
 
 You can buy these notebooks already made at our |etsyNotebooks| or by emailing a request to |emailInfoLLC|.
+
+Please note that this document is still in draft form!
 
 Why Make Your Own Small Spiral Notebooks?
 =========================================
