@@ -36,7 +36,7 @@ Additionally, you may use just an excerpt of an image to go on the cover. In the
 Creating the Printing Layout
 ============================
 
-Please note: This is a draft document. For a more detailed description for this section, please see: 
+Please note: This is a draft document! For a more detailed description for this section, please see: 
 
 .. raw:: html
 
@@ -63,6 +63,8 @@ Please note: This is a draft document. For a more detailed description for this 
 
 Printing the Layout
 ===================
+
+Please note: This is a draft document!
 
 #. Staples matte paper specs
 #. Epson printer specs
