@@ -1,6 +1,8 @@
 Preparing the Inner Contents for the Notebook
 #############################################
 
+Please note this is a draft document in the process of being written!
+
 * aligning multiples on one page, esp for small sizes which must be multiples to be large enough for binding machine
 * paper specs
 * cutting
