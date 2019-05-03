@@ -38,8 +38,10 @@ Creating the Printing Layout
 
 Please note: This is a draft document. For a more detailed description for this section, please see: 
 
-.. raw:: HTML
-  <a href="https://finalproject2.readthedocs.io/en/latest/index.html#"></a>
+.. raw:: html
+
+  <a href="https://finalproject2.readthedocs.io/en/latest/index.html" target="_blank">
+    "Creating a Photoshop File for Notebook Front Covers"</a>
 
 #. Start Photoshop.
 #. If a front cover **outside** template exists for the chosen size and style of notebook, open it.
