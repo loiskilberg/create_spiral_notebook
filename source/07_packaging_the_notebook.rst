@@ -1,6 +1,8 @@
 Packaging the Notebook
 ######################
 
+Please note this is a draft document in the process of being written!
+
 These steps vary depending on what you will be doing with the notebooks now.
 
 * Use the notebooks immediately.
