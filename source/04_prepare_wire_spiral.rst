@@ -1,6 +1,8 @@
 Preparing the Wire Spiral
 #########################
 
+Please note this is a draft document in the process of being written!
+
 * which size of spiral?
 * color?
 * how to reorder
